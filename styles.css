@@ -14,8 +14,9 @@ body{
 
 .firstColumn, .lastColumn{
 	width: 200px;
-	
 }
 .middleColumn{
 	width: 600px;
+	text-align: center;
+	
 }
