@@ -1,7 +1,14 @@
 /*  your css code here. If applicable */
-img{
+body{
+	background-color: #CBD6CB;
+}
+.sm1{
+	width: 400px;
+}
+.sm{
 	width: 100px;
 }
+
 .firstColumn, .lastColumn{
 	width: 200px;
 	
