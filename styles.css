@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+div{
+	width:1100px;
+}
 body{
 	background-color: #CBD6CB;
 }
