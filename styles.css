@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+img{
+	width: 400px;
+}
 .firstColumn, .lastColumn{
 	width: 200px;
 	
